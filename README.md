@@ -1,1 +1,1 @@
-# 5_dato_double
+Tipos de datos básicos de C++. Este programa muestra en la salida estándar una variable de tipo double, mejora la precisión con respecto a variables de tipo coma flotante o float que se utilizan también para números reales. El rango máximo de números que puede leer es 1.7E+308 y el mínimo 1.7E-308, utiliza 8 bytes en memoria para almacenar los datos.
